@@ -1,0 +1,76 @@
+[{
+    "section": "",
+    "title": "Dashboard",
+    "icon": "fa-tachometer-alt",
+    "items": ""
+  },
+  {
+    "section": "Interface",
+    "title": "Components",
+    "icon": "fa-cog",
+    "items": [{
+      "subTitle": "Custom Components",
+      "subItems": [{
+          "title": "Buttons",
+          "icon": "",
+          "route":""
+        },
+        {
+          "title": "Cards",
+          "icon":"",
+          "route":""
+        }
+      ]
+    }]
+  },
+  {
+    "section": "Addons",
+    "title": "Pages",
+    "icon": "fa-wrench",
+    "items": [{
+      "subTitle": "Custom Utilities",
+      "subItems": [{
+          "title": "Colors",
+          "icon":"",
+          "route":""
+        },
+        {
+          "title": "Borders",
+          "icon":"",
+          "route":""
+        },
+        {
+          "title": "Animations",
+          "icon":"",
+          "route":""
+        },
+        {
+          "title": "Other",
+          "icon":"",
+          "route":""
+        }
+      ]
+    }]
+  },
+  {
+    "section": "Interface",
+    "title": "Utilities",
+    "icon": "fa-wrench",
+    "items": [{
+      "subTitle": "Custom Utilities",
+      "subItems": [{
+          "title": "Colors"
+        },
+        {
+          "title": "Borders"
+        },
+        {
+          "title": "Animations"
+        },
+        {
+          "title": "Other"
+        }
+      ]
+    }]
+  }
+]
